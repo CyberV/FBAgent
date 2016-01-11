@@ -1,0 +1,9 @@
+C:\Users\CyberV\documents\visual studio 2010\Projects\FBAgent\FBAgent\obj\x86\Debug\Interop.SHDocVw.dll
+C:\Users\CyberV\documents\visual studio 2010\Projects\FBAgent\FBAgent\obj\x86\Debug\FBAgent.csproj.ResolveComReference.cache
+C:\Users\CyberV\documents\visual studio 2010\Projects\FBAgent\FBAgent\obj\x86\Debug\FBAgent.Form1.resources
+C:\Users\CyberV\documents\visual studio 2010\Projects\FBAgent\FBAgent\obj\x86\Debug\FBAgent.csproj.GenerateResource.Cache
+C:\Users\CyberV\Documents\Visual Studio 2010\Projects\FBAgent\FBAgent\obj\x86\Debug\FBAgent.Properties.Resources.resources
+C:\Users\CyberV\Documents\Visual Studio 2010\Projects\FBAgent\FBAgent\bin\Debug\FBAgent.exe
+C:\Users\CyberV\Documents\Visual Studio 2010\Projects\FBAgent\FBAgent\bin\Debug\FBAgent.pdb
+C:\Users\CyberV\Documents\Visual Studio 2010\Projects\FBAgent\FBAgent\obj\x86\Debug\FBAgent.exe
+C:\Users\CyberV\Documents\Visual Studio 2010\Projects\FBAgent\FBAgent\obj\x86\Debug\FBAgent.pdb
